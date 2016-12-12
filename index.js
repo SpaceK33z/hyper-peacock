@@ -26,6 +26,16 @@ exports.decorateConfig = (config) => {
     colors,
     css: `
       ${config.css || ''}
+      .tabs_nav {
+        height: 38px;
+        line-height: 38px;
+      }
+      .tabs_list {
+        max-height: 38px;
+      }
+      .tab_text {
+        height: 38px;
+      }
       .header_header {
         top: 0;
         left: 0;
