@@ -38,6 +38,14 @@ exports.decorateConfig = (config) => {
       .tab_tab:not(.tab_active) {
         background: ${colors.black};
       }
+      .term_fit:not(.term_term) {
+        opacity: 0.6;
+      }
+      .term_fit.term_active {
+        opacity: 1;
+        transition: opacity 0.12s ease-in-out;
+        will-change: opacity;
+      }
     `
   })
 }
