@@ -40,10 +40,10 @@ exports.decorateConfig = (config) => {
       }
       .term_fit:not(.term_term) {
         opacity: 0.6;
+        transition: opacity 0.1s cubic-bezier(.1, 0, .1, 1);
       }
       .term_fit.term_active {
         opacity: 1;
-        transition: opacity 0.12s ease-in-out;
         will-change: opacity;
       }
     `
