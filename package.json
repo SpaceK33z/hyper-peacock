@@ -2,7 +2,7 @@
   "name": "hyper-peacock",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/SpaceK33z/hyperterm-peacock"
+    "url" : "https://github.com/SpaceK33z/hyper-peacock"
   },
   "version": "0.1.0",
   "description": "A Peacock theme for Hyper.",
