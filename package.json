@@ -1,0 +1,19 @@
+{
+  "name": "hyper-peacock",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/SpaceK33z/hyperterm-peacock"
+  },
+  "version": "0.1.0",
+  "description": "A Peacock theme for Hyper.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyper"
+  ],
+  "author": "Kees Kluskens <kees@webduck.nl>",
+  "license": "ISC"
+}
