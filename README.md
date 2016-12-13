@@ -19,5 +19,5 @@ All contributions are greatly appreciated!
 
 ## Related
 
-- [Peacock for iTerm2](https://gist.github.com/danrigsby/683dfd37b805fe996d20) 
-- [Peacock for Sublime Text](https://github.com/daylerees/colour-schemes/blob/master/sublime/peacock.tmTheme)
+- [Peacock for iTerm2](https://gist.github.com/danrigsby/683dfd37b805fe996d20)
+- [Peacock for Sublime Text](https://github.com/SpaceK33z/sublime-peacock-color-scheme)
