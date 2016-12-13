@@ -69,6 +69,18 @@ exports.decorateConfig = (config) => {
         opacity: 1;
         will-change: opacity;
       }
+    `,
+    termCSS: `
+      .cursor-node[focus=true] {
+        background: ${colors.lightWhite} !important;
+        mix-blend-mode: difference;
+      }
+      .cursor-node[focus=false].cursor-node[focus=false] {
+        background: ${colors.lightWhite} !important;
+        border: 0 !important;
+        mix-blend-mode: difference;
+        opacity: 0.7;
+      }
     `
   })
 }
