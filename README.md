@@ -2,6 +2,8 @@
 
 A Peacock theme for [Hyper](https://hyper.is/).
 
+![](screenshot.png)
+
 ## Installation
 
 1. Open Hyper.app preferences with your editor - Tip: `CMD+,` or at `~/.hyper.js`.
