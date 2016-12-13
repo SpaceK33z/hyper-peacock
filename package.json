@@ -1,10 +1,10 @@
 {
   "name": "hyper-peacock",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/SpaceK33z/hyper-peacock"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpaceK33z/hyper-peacock"
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Peacock theme for Hyper.",
   "main": "index.js",
   "files": [
