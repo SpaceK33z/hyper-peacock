@@ -30,6 +30,19 @@ exports.decorateConfig = (config) => {
         height: 38px;
         line-height: 38px;
       }
+      .tab_icon {
+        top: 12px;
+        background: #2b2a27;
+        box-shadow: 0 0 6px 6px #2b2a27;
+      }
+      .tab_tab:not(.tab_active) .tab_icon {
+        background: ${colors.black};
+        box-shadow: 0 0 6px 6px ${colors.black};
+      }
+      .tab_icon.tab_icon:hover {
+        background: #fff;
+        color: #2b2a27;
+      }
       .tabs_list {
         max-height: 38px;
       }
